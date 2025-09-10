@@ -25,3 +25,10 @@ It includes:
 ---
 
 ## 📂 Project Structure
+Breast-Cancer-Classification-ML/
+│── app.py # Streamlit frontend
+│── train_model.py # Train & save the ML model
+│── breast_cancer.pkl # Trained model (generated after training)
+│── requirements.txt # Dependencies
+│── README.md # Documentation
+│── screenshots/ # App screenshots
