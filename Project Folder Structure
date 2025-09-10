@@ -1,0 +1,8 @@
+Breast-Cancer-Classification-ML/
+│── app.py                  # Streamlit frontend
+│── train_model.py          # Script to train & save model
+│── breast_cancer.pkl       # Saved trained model (generated after training)
+│── requirements.txt        # Dependencies
+│── README.md               # Project documentation
+│── .gitignore              # Ignore unnecessary files
+│── screenshots/            # Folder for images (UI, confusion matrix)
